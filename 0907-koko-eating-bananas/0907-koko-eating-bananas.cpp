@@ -3,7 +3,7 @@ public:
     int minEatingSpeed(vector<int>& piles, int h) {
         int n=piles.size();
         int low=1;
-        long long high=ME(piles);
+        long long high=1e9;
 
         
         while(low<=high){
@@ -19,16 +19,6 @@ public:
         }
 
         return low;
-    }
-
-    int ME(vector<int>& v){
-        int maxi=INT_MIN;
-        for(int i=0;i<v.size();i++){
-            if(v[i]>maxi){
-                maxi=v[i];
-            }
-        }
-        return maxi;
     }
 
     long long Totalhours(vector<int>& v, int hourlyrate){
