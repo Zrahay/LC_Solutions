@@ -16,6 +16,7 @@ Storing solutions of the Leetcode questions that I solve
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Zrahay/LC_Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Zrahay/LC_Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3430-count-days-without-meetings](https://github.com/Zrahay/LC_Solutions/tree/master/3430-count-days-without-meetings) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Zrahay/LC_Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,4 +46,8 @@ Storing solutions of the Leetcode questions that I solve
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Zrahay/LC_Solutions/tree/master/0410-split-array-largest-sum) |
+## Hash Table
+|  |
+| ------- |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Zrahay/LC_Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 <!---LeetCode Topics End-->
