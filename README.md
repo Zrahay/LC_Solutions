@@ -6,6 +6,7 @@ Storing solutions of the Leetcode questions that I solve
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Zrahay/LC_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Zrahay/LC_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Zrahay/LC_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/Zrahay/LC_Solutions/tree/master/0907-koko-eating-bananas) |
@@ -20,6 +21,7 @@ Storing solutions of the Leetcode questions that I solve
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Zrahay/LC_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Zrahay/LC_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Zrahay/LC_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/Zrahay/LC_Solutions/tree/master/0907-koko-eating-bananas) |
@@ -50,4 +52,8 @@ Storing solutions of the Leetcode questions that I solve
 |  |
 | ------- |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Zrahay/LC_Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Zrahay/LC_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
