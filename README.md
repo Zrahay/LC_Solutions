@@ -24,6 +24,7 @@ Storing solutions of the Leetcode questions that I solve
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Zrahay/LC_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Zrahay/LC_Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Zrahay/LC_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Zrahay/LC_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Zrahay/LC_Solutions/tree/master/0410-split-array-largest-sum) |
@@ -64,6 +65,7 @@ Storing solutions of the Leetcode questions that I solve
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Zrahay/LC_Solutions/tree/master/0069-sqrtx) |
 | [2998-count-symmetric-integers](https://github.com/Zrahay/LC_Solutions/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
 |  |
