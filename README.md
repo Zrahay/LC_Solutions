@@ -17,6 +17,7 @@ Storing solutions of the Leetcode questions that I solve
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Zrahay/LC_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Zrahay/LC_Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Zrahay/LC_Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2634-minimum-common-value](https://github.com/Zrahay/LC_Solutions/tree/master/2634-minimum-common-value) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Zrahay/LC_Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3430-count-days-without-meetings](https://github.com/Zrahay/LC_Solutions/tree/master/3430-count-days-without-meetings) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Zrahay/LC_Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -35,6 +36,7 @@ Storing solutions of the Leetcode questions that I solve
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Zrahay/LC_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Zrahay/LC_Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Zrahay/LC_Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2634-minimum-common-value](https://github.com/Zrahay/LC_Solutions/tree/master/2634-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +58,7 @@ Storing solutions of the Leetcode questions that I solve
 ## Hash Table
 |  |
 | ------- |
+| [2634-minimum-common-value](https://github.com/Zrahay/LC_Solutions/tree/master/2634-minimum-common-value) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Zrahay/LC_Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Divide and Conquer
 |  |
@@ -76,4 +79,8 @@ Storing solutions of the Leetcode questions that I solve
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Zrahay/LC_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Zrahay/LC_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [2634-minimum-common-value](https://github.com/Zrahay/LC_Solutions/tree/master/2634-minimum-common-value) |
 <!---LeetCode Topics End-->
