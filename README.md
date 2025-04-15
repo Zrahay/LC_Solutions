@@ -15,6 +15,7 @@ Storing solutions of the Leetcode questions that I solve
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Zrahay/LC_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Zrahay/LC_Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Zrahay/LC_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1656-count-good-triplets](https://github.com/Zrahay/LC_Solutions/tree/master/1656-count-good-triplets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Zrahay/LC_Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Zrahay/LC_Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2634-minimum-common-value](https://github.com/Zrahay/LC_Solutions/tree/master/2634-minimum-common-value) |
@@ -73,6 +74,7 @@ Storing solutions of the Leetcode questions that I solve
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Zrahay/LC_Solutions/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/Zrahay/LC_Solutions/tree/master/2998-count-symmetric-integers) |
 ## Matrix
 |  |
