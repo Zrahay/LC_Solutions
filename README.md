@@ -85,4 +85,12 @@ Storing solutions of the Leetcode questions that I solve
 |  |
 | ------- |
 | [2634-minimum-common-value](https://github.com/Zrahay/LC_Solutions/tree/master/2634-minimum-common-value) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Zrahay/LC_Solutions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Zrahay/LC_Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
