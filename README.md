@@ -15,6 +15,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0503-next-greater-element-ii](https://github.com/Zrahay/LC_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Zrahay/LC_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/Zrahay/LC_Solutions/tree/master/0907-koko-eating-bananas) |
+| [0943-sum-of-subarray-minimums](https://github.com/Zrahay/LC_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Zrahay/LC_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Zrahay/LC_Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Zrahay/LC_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -50,6 +51,7 @@ Storing solutions of the Leetcode questions that I solve
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Zrahay/LC_Solutions/tree/master/0410-split-array-largest-sum) |
+| [0943-sum-of-subarray-minimums](https://github.com/Zrahay/LC_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 ## Greedy
 |  |
 | ------- |
@@ -101,11 +103,13 @@ Storing solutions of the Leetcode questions that I solve
 | [0155-min-stack](https://github.com/Zrahay/LC_Solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Zrahay/LC_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Zrahay/LC_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0943-sum-of-subarray-minimums](https://github.com/Zrahay/LC_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Zrahay/LC_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Zrahay/LC_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0943-sum-of-subarray-minimums](https://github.com/Zrahay/LC_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 ## Design
 |  |
 | ------- |
