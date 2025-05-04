@@ -23,6 +23,7 @@ Storing solutions of the Leetcode questions that I solve
 | [1656-count-good-triplets](https://github.com/Zrahay/LC_Solutions/tree/master/1656-count-good-triplets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Zrahay/LC_Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Zrahay/LC_Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2227-sum-of-subarray-ranges](https://github.com/Zrahay/LC_Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2634-minimum-common-value](https://github.com/Zrahay/LC_Solutions/tree/master/2634-minimum-common-value) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Zrahay/LC_Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3430-count-days-without-meetings](https://github.com/Zrahay/LC_Solutions/tree/master/3430-count-days-without-meetings) |
@@ -107,6 +108,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0739-daily-temperatures](https://github.com/Zrahay/LC_Solutions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Zrahay/LC_Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Zrahay/LC_Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/Zrahay/LC_Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -115,6 +117,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0739-daily-temperatures](https://github.com/Zrahay/LC_Solutions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Zrahay/LC_Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Zrahay/LC_Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/Zrahay/LC_Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
