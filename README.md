@@ -12,6 +12,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0084-largest-rectangle-in-histogram](https://github.com/Zrahay/LC_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/Zrahay/LC_Solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Zrahay/LC_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Zrahay/LC_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Zrahay/LC_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Zrahay/LC_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Zrahay/LC_Solutions/tree/master/0503-next-greater-element-ii) |
@@ -38,6 +39,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0069-sqrtx](https://github.com/Zrahay/LC_Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Zrahay/LC_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Zrahay/LC_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Zrahay/LC_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Zrahay/LC_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Zrahay/LC_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/Zrahay/LC_Solutions/tree/master/0907-koko-eating-bananas) |
@@ -50,6 +52,7 @@ Storing solutions of the Leetcode questions that I solve
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Zrahay/LC_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Zrahay/LC_Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [3430-count-days-without-meetings](https://github.com/Zrahay/LC_Solutions/tree/master/3430-count-days-without-meetings) |
 ## Dynamic Programming
@@ -69,6 +72,7 @@ Storing solutions of the Leetcode questions that I solve
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Zrahay/LC_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Zrahay/LC_Solutions/tree/master/0496-next-greater-element-i) |
 | [2634-minimum-common-value](https://github.com/Zrahay/LC_Solutions/tree/master/2634-minimum-common-value) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Zrahay/LC_Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -98,6 +102,7 @@ Storing solutions of the Leetcode questions that I solve
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Zrahay/LC_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Zrahay/LC_Solutions/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Zrahay/LC_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2634-minimum-common-value](https://github.com/Zrahay/LC_Solutions/tree/master/2634-minimum-common-value) |
 ## String
 |  |
