@@ -10,6 +10,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Zrahay/LC_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Zrahay/LC_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Zrahay/LC_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0189-rotate-array](https://github.com/Zrahay/LC_Solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Zrahay/LC_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Zrahay/LC_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Zrahay/LC_Solutions/tree/master/0496-next-greater-element-i) |
@@ -80,6 +81,7 @@ Storing solutions of the Leetcode questions that I solve
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Zrahay/LC_Solutions/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Zrahay/LC_Solutions/tree/master/0189-rotate-array) |
 | [2998-count-symmetric-integers](https://github.com/Zrahay/LC_Solutions/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
 |  |
@@ -95,6 +97,7 @@ Storing solutions of the Leetcode questions that I solve
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Zrahay/LC_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Zrahay/LC_Solutions/tree/master/0189-rotate-array) |
 | [2634-minimum-common-value](https://github.com/Zrahay/LC_Solutions/tree/master/2634-minimum-common-value) |
 ## String
 |  |
