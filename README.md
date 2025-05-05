@@ -18,6 +18,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0410-split-array-largest-sum](https://github.com/Zrahay/LC_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Zrahay/LC_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Zrahay/LC_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/Zrahay/LC_Solutions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Zrahay/LC_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Zrahay/LC_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Zrahay/LC_Solutions/tree/master/0735-asteroid-collision) |
@@ -75,12 +76,14 @@ Storing solutions of the Leetcode questions that I solve
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Zrahay/LC_Solutions/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/Zrahay/LC_Solutions/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Zrahay/LC_Solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Zrahay/LC_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Zrahay/LC_Solutions/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/Zrahay/LC_Solutions/tree/master/0525-contiguous-array) |
 | [2634-minimum-common-value](https://github.com/Zrahay/LC_Solutions/tree/master/2634-minimum-common-value) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Zrahay/LC_Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Divide and Conquer
