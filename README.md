@@ -119,6 +119,7 @@ Storing solutions of the Leetcode questions that I solve
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Zrahay/LC_Solutions/tree/master/0020-valid-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/Zrahay/LC_Solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -133,6 +134,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0739-daily-temperatures](https://github.com/Zrahay/LC_Solutions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Zrahay/LC_Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Zrahay/LC_Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1078-remove-outermost-parentheses](https://github.com/Zrahay/LC_Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/Zrahay/LC_Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
