@@ -122,6 +122,7 @@ Storing solutions of the Leetcode questions that I solve
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Zrahay/LC_Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Zrahay/LC_Solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Zrahay/LC_Solutions/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/Zrahay/LC_Solutions/tree/master/0205-isomorphic-strings) |
@@ -190,4 +191,8 @@ Storing solutions of the Leetcode questions that I solve
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Zrahay/LC_Solutions/tree/master/0067-add-binary) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Zrahay/LC_Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
