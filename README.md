@@ -95,6 +95,7 @@ Storing solutions of the Leetcode questions that I solve
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Zrahay/LC_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Zrahay/LC_Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Zrahay/LC_Solutions/tree/master/0189-rotate-array) |
 | [2998-count-symmetric-integers](https://github.com/Zrahay/LC_Solutions/tree/master/2998-count-symmetric-integers) |
@@ -119,6 +120,7 @@ Storing solutions of the Leetcode questions that I solve
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Zrahay/LC_Solutions/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Zrahay/LC_Solutions/tree/master/0067-add-binary) |
 | [1078-remove-outermost-parentheses](https://github.com/Zrahay/LC_Solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
@@ -160,6 +162,7 @@ Storing solutions of the Leetcode questions that I solve
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Zrahay/LC_Solutions/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Zrahay/LC_Solutions/tree/master/0735-asteroid-collision) |
 ## Heap (Priority Queue)
 |  |
@@ -178,4 +181,8 @@ Storing solutions of the Leetcode questions that I solve
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Zrahay/LC_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Zrahay/LC_Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Zrahay/LC_Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
