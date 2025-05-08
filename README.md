@@ -81,6 +81,7 @@ Storing solutions of the Leetcode questions that I solve
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Zrahay/LC_Solutions/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/Zrahay/LC_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Zrahay/LC_Solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Zrahay/LC_Solutions/tree/master/0525-contiguous-array) |
@@ -121,6 +122,7 @@ Storing solutions of the Leetcode questions that I solve
 | ------- |
 | [0020-valid-parentheses](https://github.com/Zrahay/LC_Solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Zrahay/LC_Solutions/tree/master/0067-add-binary) |
+| [0205-isomorphic-strings](https://github.com/Zrahay/LC_Solutions/tree/master/0205-isomorphic-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/Zrahay/LC_Solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
