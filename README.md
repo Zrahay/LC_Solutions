@@ -61,6 +61,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0215-kth-largest-element-in-an-array](https://github.com/Zrahay/LC_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Zrahay/LC_Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Zrahay/LC_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/Zrahay/LC_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Zrahay/LC_Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [3430-count-days-without-meetings](https://github.com/Zrahay/LC_Solutions/tree/master/3430-count-days-without-meetings) |
 ## Dynamic Programming
@@ -87,6 +88,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0205-isomorphic-strings](https://github.com/Zrahay/LC_Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Zrahay/LC_Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Zrahay/LC_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/Zrahay/LC_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Zrahay/LC_Solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Zrahay/LC_Solutions/tree/master/0525-contiguous-array) |
 | [2634-minimum-common-value](https://github.com/Zrahay/LC_Solutions/tree/master/2634-minimum-common-value) |
@@ -130,6 +132,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0067-add-binary](https://github.com/Zrahay/LC_Solutions/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/Zrahay/LC_Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Zrahay/LC_Solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Zrahay/LC_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1078-remove-outermost-parentheses](https://github.com/Zrahay/LC_Solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
@@ -179,6 +182,7 @@ Storing solutions of the Leetcode questions that I solve
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Zrahay/LC_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Zrahay/LC_Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
@@ -200,4 +204,12 @@ Storing solutions of the Leetcode questions that I solve
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Zrahay/LC_Solutions/tree/master/0014-longest-common-prefix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Zrahay/LC_Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Zrahay/LC_Solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
