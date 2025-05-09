@@ -137,6 +137,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0242-valid-anagram](https://github.com/Zrahay/LC_Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Zrahay/LC_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1078-remove-outermost-parentheses](https://github.com/Zrahay/LC_Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Zrahay/LC_Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -153,6 +154,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0937-online-stock-span](https://github.com/Zrahay/LC_Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Zrahay/LC_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/Zrahay/LC_Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Zrahay/LC_Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/Zrahay/LC_Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
