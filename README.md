@@ -9,6 +9,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0004-median-of-two-sorted-arrays](https://github.com/Zrahay/LC_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Zrahay/LC_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Zrahay/LC_Solutions/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/Zrahay/LC_Solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Zrahay/LC_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Zrahay/LC_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/Zrahay/LC_Solutions/tree/master/0152-maximum-product-subarray) |
@@ -60,6 +61,7 @@ Storing solutions of the Leetcode questions that I solve
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Zrahay/LC_Solutions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Zrahay/LC_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Zrahay/LC_Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Zrahay/LC_Solutions/tree/master/0349-intersection-of-two-arrays) |
