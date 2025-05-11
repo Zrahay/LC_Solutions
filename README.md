@@ -90,6 +90,7 @@ Storing solutions of the Leetcode questions that I solve
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Zrahay/LC_Solutions/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Zrahay/LC_Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Zrahay/LC_Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Zrahay/LC_Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -107,6 +108,7 @@ Storing solutions of the Leetcode questions that I solve
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Zrahay/LC_Solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Zrahay/LC_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Zrahay/LC_Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Zrahay/LC_Solutions/tree/master/0189-rotate-array) |
@@ -132,6 +134,7 @@ Storing solutions of the Leetcode questions that I solve
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Zrahay/LC_Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Zrahay/LC_Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Zrahay/LC_Solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Zrahay/LC_Solutions/tree/master/0067-add-binary) |
