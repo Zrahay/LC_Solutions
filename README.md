@@ -90,6 +90,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0525-contiguous-array](https://github.com/Zrahay/LC_Solutions/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Zrahay/LC_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Zrahay/LC_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Zrahay/LC_Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +148,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0242-valid-anagram](https://github.com/Zrahay/LC_Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Zrahay/LC_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1078-remove-outermost-parentheses](https://github.com/Zrahay/LC_Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Zrahay/LC_Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Zrahay/LC_Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3194-find-words-containing-character](https://github.com/Zrahay/LC_Solutions/tree/master/3194-find-words-containing-character) |
 ## Stack
