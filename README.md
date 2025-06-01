@@ -91,6 +91,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0713-subarray-product-less-than-k](https://github.com/Zrahay/LC_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Zrahay/LC_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Zrahay/LC_Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2571-find-the-pivot-integer](https://github.com/Zrahay/LC_Solutions/tree/master/2571-find-the-pivot-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0067-add-binary](https://github.com/Zrahay/LC_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Zrahay/LC_Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Zrahay/LC_Solutions/tree/master/0189-rotate-array) |
+| [2571-find-the-pivot-integer](https://github.com/Zrahay/LC_Solutions/tree/master/2571-find-the-pivot-integer) |
 | [2998-count-symmetric-integers](https://github.com/Zrahay/LC_Solutions/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
 |  |
