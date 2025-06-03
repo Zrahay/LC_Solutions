@@ -16,6 +16,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0189-rotate-array](https://github.com/Zrahay/LC_Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Zrahay/LC_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Zrahay/LC_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0303-range-sum-query-immutable](https://github.com/Zrahay/LC_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Zrahay/LC_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Zrahay/LC_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Zrahay/LC_Solutions/tree/master/0496-next-greater-element-i) |
@@ -87,6 +88,7 @@ Storing solutions of the Leetcode questions that I solve
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Zrahay/LC_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Zrahay/LC_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Zrahay/LC_Solutions/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Zrahay/LC_Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -190,6 +192,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0155-min-stack](https://github.com/Zrahay/LC_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Zrahay/LC_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Zrahay/LC_Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Zrahay/LC_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0937-online-stock-span](https://github.com/Zrahay/LC_Solutions/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
