@@ -37,6 +37,7 @@ Storing solutions of the Leetcode questions that I solve
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Zrahay/LC_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1656-count-good-triplets](https://github.com/Zrahay/LC_Solutions/tree/master/1656-count-good-triplets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Zrahay/LC_Solutions/tree/master/1675-magnetic-force-between-two-balls) |
+| [1833-find-the-highest-altitude](https://github.com/Zrahay/LC_Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/Zrahay/LC_Solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Zrahay/LC_Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Zrahay/LC_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -100,6 +101,7 @@ Storing solutions of the Leetcode questions that I solve
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Zrahay/LC_Solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Zrahay/LC_Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Zrahay/LC_Solutions/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/Zrahay/LC_Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/Zrahay/LC_Solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2571-find-the-pivot-integer](https://github.com/Zrahay/LC_Solutions/tree/master/2571-find-the-pivot-integer) |
 ## Hash Table
