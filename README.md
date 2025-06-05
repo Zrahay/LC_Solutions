@@ -150,6 +150,7 @@ Storing solutions of the Leetcode questions that I solve
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Zrahay/LC_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Zrahay/LC_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Zrahay/LC_Solutions/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Zrahay/LC_Solutions/tree/master/0189-rotate-array) |
@@ -254,6 +255,7 @@ Storing solutions of the Leetcode questions that I solve
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Zrahay/LC_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Zrahay/LC_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Zrahay/LC_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Zrahay/LC_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
