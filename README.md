@@ -154,6 +154,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Zrahay/LC_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Zrahay/LC_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Zrahay/LC_Solutions/tree/master/0042-trapping-rain-water) |
+| [0086-partition-list](https://github.com/Zrahay/LC_Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Zrahay/LC_Solutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Zrahay/LC_Solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Zrahay/LC_Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -260,6 +261,7 @@ Storing solutions of the Leetcode questions that I solve
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Zrahay/LC_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Zrahay/LC_Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0086-partition-list](https://github.com/Zrahay/LC_Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Zrahay/LC_Solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Zrahay/LC_Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Zrahay/LC_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
