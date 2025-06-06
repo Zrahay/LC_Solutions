@@ -259,6 +259,7 @@ Storing solutions of the Leetcode questions that I solve
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Zrahay/LC_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Zrahay/LC_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Zrahay/LC_Solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Zrahay/LC_Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Zrahay/LC_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -272,5 +273,6 @@ Storing solutions of the Leetcode questions that I solve
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Zrahay/LC_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Zrahay/LC_Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
