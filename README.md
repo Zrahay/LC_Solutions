@@ -159,6 +159,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0189-rotate-array](https://github.com/Zrahay/LC_Solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Zrahay/LC_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Zrahay/LC_Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Zrahay/LC_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2634-minimum-common-value](https://github.com/Zrahay/LC_Solutions/tree/master/2634-minimum-common-value) |
 ## String
 |  |
@@ -267,6 +268,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0237-delete-node-in-a-linked-list](https://github.com/Zrahay/LC_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Zrahay/LC_Solutions/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Zrahay/LC_Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Zrahay/LC_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Zrahay/LC_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Zrahay/LC_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
