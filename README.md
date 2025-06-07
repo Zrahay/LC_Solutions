@@ -71,6 +71,7 @@ Storing solutions of the Leetcode questions that I solve
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Zrahay/LC_Solutions/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/Zrahay/LC_Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Zrahay/LC_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Zrahay/LC_Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Zrahay/LC_Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -124,6 +125,7 @@ Storing solutions of the Leetcode questions that I solve
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Zrahay/LC_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Zrahay/LC_Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Zrahay/LC_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Zrahay/LC_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
@@ -156,6 +158,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0042-trapping-rain-water](https://github.com/Zrahay/LC_Solutions/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/Zrahay/LC_Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Zrahay/LC_Solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Zrahay/LC_Solutions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Zrahay/LC_Solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Zrahay/LC_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Zrahay/LC_Solutions/tree/master/0908-middle-of-the-linked-list) |
@@ -264,6 +267,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0021-merge-two-sorted-lists](https://github.com/Zrahay/LC_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/Zrahay/LC_Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Zrahay/LC_Solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Zrahay/LC_Solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Zrahay/LC_Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Zrahay/LC_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Zrahay/LC_Solutions/tree/master/0328-odd-even-linked-list) |
@@ -280,4 +284,8 @@ Storing solutions of the Leetcode questions that I solve
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Zrahay/LC_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Zrahay/LC_Solutions/tree/master/0206-reverse-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Zrahay/LC_Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
