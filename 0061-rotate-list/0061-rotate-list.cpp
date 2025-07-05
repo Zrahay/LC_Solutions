@@ -16,21 +16,31 @@ public:
         if(head->next == NULL) return head;
         int n = len(head);
         int num_rotations = (k % n);
+        int val = n - num_rotations;
 
+        if((k % n) == 0) return head;
+        // First find the last node
+        ListNode* temp = head;
 
-        while(num_rotations != 0){
-            ListNode* temp = head;
-            while(temp->next->next != NULL){
-                temp = temp->next;
-            }
-            ListNode* temp1 = temp->next;
-            temp->next = NULL;
-            temp1->next = head;
-            head = temp1;
-            --num_rotations;
+        int count = 0;
+
+        while(temp->next != NULL){
+            temp = temp->next;
         }
+        temp->next = head;
+        // Now find the new last node which is n - k
+        ListNode* temp2 = head;
+        count++;
+        while(count != val){
+            count++;
+            temp2 = temp2->next;
+        }
+        ListNode* temp1 = temp2->next;
+        head = temp1;
+        temp2->next = NULL;
 
         return head;
+
     }
 
     int len(ListNode* head){
