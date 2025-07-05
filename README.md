@@ -132,6 +132,7 @@ Storing solutions of the Leetcode questions that I solve
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Zrahay/LC_Solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Zrahay/LC_Solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Zrahay/LC_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Zrahay/LC_Solutions/tree/master/0069-sqrtx) |
@@ -265,6 +266,7 @@ Storing solutions of the Leetcode questions that I solve
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Zrahay/LC_Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Zrahay/LC_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Zrahay/LC_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/Zrahay/LC_Solutions/tree/master/0086-partition-list) |
@@ -285,6 +287,7 @@ Storing solutions of the Leetcode questions that I solve
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Zrahay/LC_Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Zrahay/LC_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Zrahay/LC_Solutions/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
