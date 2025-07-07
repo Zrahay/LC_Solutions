@@ -5,7 +5,7 @@ public:
     int val;
     Node* next;
     Node* random;
-    
+
     Node(int _val) {
         val = _val;
         next = NULL;
@@ -17,25 +17,50 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        if(head == NULL) return NULL;
+        
+
+        if (head == NULL)
+            return NULL;
+
+        Node* temp = head;
+        Node* res = head;
+        while (temp != NULL) {
+            Node* node = new Node(temp->val);
+            res = temp->next;
+            temp->next = node;
+            node->next = res;
+            temp = temp->next->next;
+        }
 
         
 
-        map<Node*, Node*> mpp;
+        temp = head;
+        temp = head;
+        while (temp != NULL) {
+            if (temp->random != NULL)
+                temp->next->random = temp->random->next;
+            else
+                temp->next->random = NULL;
+            temp = temp->next->next;
+        }
 
-        Node* temp = head;
+        // Now we need to connect the next pointers
+
+        Node* nodeis = new Node(-100);
+        Node* nodehead = nodeis;
+        Node* newhead = nodeis;
+        temp = head;
+
         while(temp != NULL){
-            mpp[temp] = new Node(temp->val);
+            newhead->next = temp->next;
+            newhead = newhead->next;
+            temp->next = temp->next->next;
             temp = temp->next;
         }
 
-        Node* temp1 = head;
-        while(temp1 != NULL){
-            (mpp[temp1])->next = mpp[temp1->next];
-            (mpp[temp1])->random = mpp[temp1->random];
-            temp1 = temp1->next;
-        }
 
-        return mpp[head];
+        
+
+        return nodehead->next;
     }
 };
