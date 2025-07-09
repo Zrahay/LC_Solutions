@@ -11,27 +11,81 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-        if(head == NULL) return head;
+        if(head == NULL) return NULL;
         if(head->next == NULL) return true;
 
-        ListNode* temp = head;
-        vector<int>v;
+        ListNode* slow = head;
+        ListNode* fast = head;
+        int sz = len(head);
 
-        while(temp != NULL){
-            v.push_back(temp->val);
-            temp = temp->next;
+        while(fast != NULL && fast->next != NULL){
+            slow = slow->next;
+            fast = fast->next->next;
         }
 
-        int front = 0;
-        int back = v.size() - 1;
+        if(sz % 2 == 0){
+            ListNode* newLL = LLreverse(slow);
 
-        while(front < back){
-            if(v[front] != v[back]) return false;
-            front++;
-            back--;
+            ListNode* newhead = newLL;
+
+            ListNode* tempnew = head;
+            while(newhead != NULL){
+                if(tempnew->val != newhead->val) return false;
+
+                tempnew = tempnew->next;
+                newhead = newhead->next;
+                cout<<"We are here"<<"\n";
+            }
+            return true;
+
+        }
+
+        ListNode* newLL = LLreverse(slow->next);
+        ListNode* newhead = newLL;
+        ListNode* tempnew = head;
+        while(newhead != NULL){
+            if(tempnew->val != newhead->val) return false;
+
+                tempnew = tempnew->next;
+                newhead = newhead->next;
         }
 
         return true;
 
+
+
+    }
+
+    int len(ListNode* head){
+        int count = 0;
+
+        ListNode* temp = head;
+
+        while(temp != NULL){
+            
+            count++;
+            temp = temp->next;
+        }
+
+        return count;
+    }
+    ListNode* LLreverse(ListNode* head) {
+        ListNode* temp = head;
+        ListNode* front = head;
+        ListNode* temp1 = temp;
+        if(head == NULL || head->next == NULL) return head;
+
+        front = temp->next;
+        temp = temp->next;
+        temp1->next = NULL;
+        while(front != NULL){
+            front = temp->next;
+            temp->next = temp1;
+            temp1 = temp;
+            temp = front;
+        }
+
+        ListNode* head2 = temp1;
+        return head2;
     }
 };
