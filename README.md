@@ -162,6 +162,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0042-trapping-rain-water](https://github.com/Zrahay/LC_Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Zrahay/LC_Solutions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Zrahay/LC_Solutions/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/Zrahay/LC_Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Zrahay/LC_Solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Zrahay/LC_Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Zrahay/LC_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -180,6 +181,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0014-longest-common-prefix](https://github.com/Zrahay/LC_Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Zrahay/LC_Solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Zrahay/LC_Solutions/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Zrahay/LC_Solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Zrahay/LC_Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Zrahay/LC_Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Zrahay/LC_Solutions/tree/master/0451-sort-characters-by-frequency) |
