@@ -33,6 +33,7 @@ Storing solutions of the Leetcode questions that I solve
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Zrahay/LC_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Zrahay/LC_Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Zrahay/LC_Solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Zrahay/LC_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Zrahay/LC_Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Zrahay/LC_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1656-count-good-triplets](https://github.com/Zrahay/LC_Solutions/tree/master/1656-count-good-triplets) |
@@ -102,6 +103,7 @@ Storing solutions of the Leetcode questions that I solve
 | [1046-max-consecutive-ones-iii](https://github.com/Zrahay/LC_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Zrahay/LC_Solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Zrahay/LC_Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Zrahay/LC_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Zrahay/LC_Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Zrahay/LC_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/Zrahay/LC_Solutions/tree/master/1833-find-the-highest-altitude) |
@@ -252,6 +254,7 @@ Storing solutions of the Leetcode questions that I solve
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Zrahay/LC_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Zrahay/LC_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Zrahay/LC_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Queue
 |  |
 | ------- |
