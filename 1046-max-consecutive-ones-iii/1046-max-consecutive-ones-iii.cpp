@@ -10,18 +10,17 @@ public:
         while(right < n){
             if(nums[right] == 0) count_zeros++;
 
-            while(count_zeros > k){
-                if(nums[left] == 0){
-                    count_zeros--;
 
-                }
-
+            if(count_zeros > k){
+                if(nums[left] == 0) count_zeros--;
                 left++;
-            }
-
-            if(count_zeros <= k){
                 maxi = max(maxi, (right - left + 1));
             }
+
+            else if(count_zeros <= k){
+                maxi = max(maxi, (right - left + 1));
+            }
+            
             right++;
         }
 
