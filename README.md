@@ -144,6 +144,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0069-sqrtx](https://github.com/Zrahay/LC_Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Zrahay/LC_Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Zrahay/LC_Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Zrahay/LC_Solutions/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Zrahay/LC_Solutions/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Zrahay/LC_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Zrahay/LC_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -321,6 +322,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0206-reverse-linked-list](https://github.com/Zrahay/LC_Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Zrahay/LC_Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Zrahay/LC_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Zrahay/LC_Solutions/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Zrahay/LC_Solutions/tree/master/1013-fibonacci-number) |
 ## Merge Sort
 |  |
