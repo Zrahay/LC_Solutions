@@ -87,6 +87,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0152-maximum-product-subarray](https://github.com/Zrahay/LC_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Zrahay/LC_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Zrahay/LC_Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1013-fibonacci-number](https://github.com/Zrahay/LC_Solutions/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -142,6 +143,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0067-add-binary](https://github.com/Zrahay/LC_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Zrahay/LC_Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Zrahay/LC_Solutions/tree/master/0189-rotate-array) |
+| [1013-fibonacci-number](https://github.com/Zrahay/LC_Solutions/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Zrahay/LC_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Zrahay/LC_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2571-find-the-pivot-integer](https://github.com/Zrahay/LC_Solutions/tree/master/2571-find-the-pivot-integer) |
@@ -316,8 +318,13 @@ Storing solutions of the Leetcode questions that I solve
 | [0050-powx-n](https://github.com/Zrahay/LC_Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Zrahay/LC_Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Zrahay/LC_Solutions/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/Zrahay/LC_Solutions/tree/master/1013-fibonacci-number) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Zrahay/LC_Solutions/tree/master/0148-sort-list) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Zrahay/LC_Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
