@@ -143,6 +143,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0067-add-binary](https://github.com/Zrahay/LC_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Zrahay/LC_Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Zrahay/LC_Solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Zrahay/LC_Solutions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Zrahay/LC_Solutions/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Zrahay/LC_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Zrahay/LC_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -270,6 +271,7 @@ Storing solutions of the Leetcode questions that I solve
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Zrahay/LC_Solutions/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Zrahay/LC_Solutions/tree/master/0231-power-of-two) |
 ## Trie
 |  |
 | ------- |
@@ -317,6 +319,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0021-merge-two-sorted-lists](https://github.com/Zrahay/LC_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Zrahay/LC_Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Zrahay/LC_Solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Zrahay/LC_Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Zrahay/LC_Solutions/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Zrahay/LC_Solutions/tree/master/1013-fibonacci-number) |
 ## Merge Sort
