@@ -4,22 +4,25 @@ long long MOD = 1e9 + 7;
     int countGoodNumbers(long long n) {
 
         long long div = n / 2;
-
         if (n % 2 == 0) {
             long long ans1 = myPow(5, div);
             long long ans2 = myPow(4, div);
-
-            
-            
-            long long ans = (1LL* ans1* ans2) % MOD;
+            long long ans = 1;
+            ans = (ans * ans1) % MOD;
+            ans2 = ans2 % MOD;
+            ans = ans % MOD;
+            ans = (ans * ans2)%MOD;
 
             return ans;
         }
 
         long long ans1 = myPow(5, div + 1);
         long long ans2 = myPow(4, div);
-
-        long long ans = (1LL* ans1* ans2) % MOD;
+        long long ans = 1;
+        ans = (ans * ans1) % MOD;
+        ans2 = ans2 % MOD;
+        ans = ans % MOD;
+        ans = (ans * ans2)%MOD;
 
         return ans;
     }
