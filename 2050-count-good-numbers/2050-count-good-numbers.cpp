@@ -1,29 +1,55 @@
 class Solution {
 public:
-    int mod=1e9+7;
+long long MOD = 1e9 + 7;
+    int countGoodNumbers(long long n) {
 
-    int mod_pow(int base, long long int exponent) {
-        int result = 1;
-        //base %= mod;  // handle base larger than mod
-        while (exponent > 0) {
-            if (exponent & 1)  // if lowest bit is 1
-                result = (1LL * result * base) % mod;
-            base = (1LL * base * base) % mod;  // square the base
-            exponent >>= 1;  // shift exponent right (divide by 2)
+        long long div = n / 2;
+
+        if (n % 2 == 0) {
+            long long ans1 = myPow(5, div);
+            long long ans2 = myPow(4, div);
+
+            
+            
+            long long ans = (1LL* ans1* ans2) % MOD;
+
+            return ans;
         }
-        return result;
+
+        long long ans1 = myPow(5, div + 1);
+        long long ans2 = myPow(4, div);
+
+        long long ans = (1LL* ans1* ans2) % MOD;
+
+        return ans;
     }
 
-    int countGoodNumbers(long long n) {
-        long long int odd=0,eve=0;
-        if(n%2==0){
-            odd=eve=n/2;
-        }else{
-            odd=n/2;
-            eve=n/2+1;
+    long long myPow(long long x, long long n) {
+        if (n == 0)
+            return 1;
+
+        if (x == 0)
+            return 0;
+        long long ans = 1.0;
+
+        long long n_new = n;
+
+        n_new = abs(n_new);
+
+        while (n_new > 0) {
+            if (n_new % 2 == 0) {
+                x = (1LL* x * x)%MOD;
+                n_new = n_new / 2;
+            } else {
+                ans = (1LL* ans * x)%MOD;
+                n_new = n_new - 1;
+            }
         }
 
-        int combo=(1LL*(mod_pow(5,eve))*(mod_pow(4,odd)))%mod;
-        return combo;
+        if (n < 0) {
+            return (1.0 / ans);
+        }
+
+        return ans%MOD;
     }
 };
