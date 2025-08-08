@@ -2,28 +2,25 @@ class Solution {
 public:
     char kthCharacter(int k) {
         string str = "ab";
-
-        while(true){
-            if(str.size() >= k){
-                return str[k - 1];
-                break;
-            }
-
-            str = str + recur(str);
-
-        }
+        char ans = recur(k, str);
+        return ans;
     }
 
-    string recur(string str){
-        string ans = "";
+    char recur(int k, string str){
 
-        for(int i = 0; i < str.size(); i++){
-            if(str[i] == 'z'){
-                ans = ans + 'a';
-            }
-            ans = ans + char(str[i] + 1);
+        if(str.size() >= k){
+            return str[k - 1];
         }
 
-        return ans;
+        int n = str.size();
+
+        for(int i = 0; i < n; i++){
+            if(str[i] == 'z'){
+                str = str + 'a';
+            }
+            else str = str + char(str[i] + 1);
+        }
+
+        return recur(k, str);
     }
 };
