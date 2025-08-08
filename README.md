@@ -152,6 +152,7 @@ Storing solutions of the Leetcode questions that I solve
 | [2571-find-the-pivot-integer](https://github.com/Zrahay/LC_Solutions/tree/master/2571-find-the-pivot-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Zrahay/LC_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/Zrahay/LC_Solutions/tree/master/2998-count-symmetric-integers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Zrahay/LC_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -248,6 +249,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0067-add-binary](https://github.com/Zrahay/LC_Solutions/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Zrahay/LC_Solutions/tree/master/0735-asteroid-collision) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Zrahay/LC_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Zrahay/LC_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -274,6 +276,7 @@ Storing solutions of the Leetcode questions that I solve
 | ------- |
 | [0067-add-binary](https://github.com/Zrahay/LC_Solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Zrahay/LC_Solutions/tree/master/0231-power-of-two) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Zrahay/LC_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Trie
 |  |
 | ------- |
@@ -326,6 +329,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0326-power-of-three](https://github.com/Zrahay/LC_Solutions/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Zrahay/LC_Solutions/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/Zrahay/LC_Solutions/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Zrahay/LC_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Merge Sort
 |  |
 | ------- |
