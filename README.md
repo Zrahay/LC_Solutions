@@ -49,6 +49,7 @@ Storing solutions of the Leetcode questions that I solve
 | [3194-find-words-containing-character](https://github.com/Zrahay/LC_Solutions/tree/master/3194-find-words-containing-character) |
 | [3430-count-days-without-meetings](https://github.com/Zrahay/LC_Solutions/tree/master/3430-count-days-without-meetings) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Zrahay/LC_Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Zrahay/LC_Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -127,6 +128,7 @@ Storing solutions of the Leetcode questions that I solve
 | [2215-finding-3-digit-even-numbers](https://github.com/Zrahay/LC_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2634-minimum-common-value](https://github.com/Zrahay/LC_Solutions/tree/master/2634-minimum-common-value) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Zrahay/LC_Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Zrahay/LC_Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -159,6 +161,7 @@ Storing solutions of the Leetcode questions that I solve
 | [1656-count-good-triplets](https://github.com/Zrahay/LC_Solutions/tree/master/1656-count-good-triplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Zrahay/LC_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Zrahay/LC_Solutions/tree/master/2998-count-symmetric-integers) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Zrahay/LC_Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
 | ------- |
@@ -330,6 +333,7 @@ Storing solutions of the Leetcode questions that I solve
 | [1013-fibonacci-number](https://github.com/Zrahay/LC_Solutions/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/Zrahay/LC_Solutions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Zrahay/LC_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Zrahay/LC_Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Merge Sort
 |  |
 | ------- |
