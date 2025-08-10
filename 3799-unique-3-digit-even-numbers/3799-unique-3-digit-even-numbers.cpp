@@ -1,23 +1,33 @@
 class Solution {
 public:
     int totalNumbers(vector<int>& digits) {
-        set<int>st;
+        int count = 0;
+
+        // Count the freq of each digit in digits
+        map<int,int>mpp;
 
         for(int i = 0; i < digits.size(); i++){
-            if(digits[i] == 0) continue;
-            for(int j = 0; j < digits.size(); j++){
-                if(i == j) continue;
-                for(int k = 0; k < digits.size(); k++){
-                    if(k == i || k == j)continue;
-
-                    int num = (digits[i] * 100) + (digits[j] * 10) + digits[k] * 1;
-                    if(num % 2 == 0){
-                        st.insert(num);
-                    }
-                }
-            }
+            mpp[digits[i]]++;
         }
 
-        return st.size();
+        for(int i = 1; i <= 9; i++){
+            if(mpp[i] == 0) continue;
+            mpp[i]--;
+            for(int j = 0; j <= 9; j++){
+                if(mpp[j] == 0) continue;
+                mpp[j]--;
+
+                for(int k = 0; k <= 8; k = k + 2){
+                    if(mpp[k] == 0) continue;
+                    mpp[k]--;
+                    count++;
+                    mpp[k]++;
+                }
+                mpp[j]++;
+            }
+            mpp[i]++;
+        }
+
+        return count;
     }
 };
