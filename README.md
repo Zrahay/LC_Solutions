@@ -11,6 +11,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0042-trapping-rain-water](https://github.com/Zrahay/LC_Solutions/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Zrahay/LC_Solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Zrahay/LC_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Zrahay/LC_Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Zrahay/LC_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/Zrahay/LC_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Zrahay/LC_Solutions/tree/master/0189-rotate-array) |
@@ -279,6 +280,7 @@ Storing solutions of the Leetcode questions that I solve
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Zrahay/LC_Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Zrahay/LC_Solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Zrahay/LC_Solutions/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Zrahay/LC_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Trie
@@ -344,4 +346,8 @@ Storing solutions of the Leetcode questions that I solve
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Zrahay/LC_Solutions/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Zrahay/LC_Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
