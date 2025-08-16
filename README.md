@@ -85,6 +85,7 @@ Storing solutions of the Leetcode questions that I solve
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Zrahay/LC_Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Zrahay/LC_Solutions/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/Zrahay/LC_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Zrahay/LC_Solutions/tree/master/0410-split-array-largest-sum) |
@@ -198,6 +199,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0014-longest-common-prefix](https://github.com/Zrahay/LC_Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Zrahay/LC_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Zrahay/LC_Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Zrahay/LC_Solutions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Zrahay/LC_Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Zrahay/LC_Solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Zrahay/LC_Solutions/tree/master/0205-isomorphic-strings) |
@@ -352,5 +354,6 @@ Storing solutions of the Leetcode questions that I solve
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Zrahay/LC_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Zrahay/LC_Solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Zrahay/LC_Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
