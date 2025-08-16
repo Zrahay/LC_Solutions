@@ -8,6 +8,7 @@ Storing solutions of the Leetcode questions that I solve
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Zrahay/LC_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Zrahay/LC_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0039-combination-sum](https://github.com/Zrahay/LC_Solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Zrahay/LC_Solutions/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Zrahay/LC_Solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Zrahay/LC_Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -355,5 +356,6 @@ Storing solutions of the Leetcode questions that I solve
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Zrahay/LC_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Zrahay/LC_Solutions/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Zrahay/LC_Solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Zrahay/LC_Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
