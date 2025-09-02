@@ -151,6 +151,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0189-rotate-array](https://github.com/Zrahay/LC_Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Zrahay/LC_Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Zrahay/LC_Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Zrahay/LC_Solutions/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Zrahay/LC_Solutions/tree/master/0390-elimination-game) |
 | [1013-fibonacci-number](https://github.com/Zrahay/LC_Solutions/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Zrahay/LC_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -287,6 +288,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0067-add-binary](https://github.com/Zrahay/LC_Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Zrahay/LC_Solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Zrahay/LC_Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Zrahay/LC_Solutions/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Zrahay/LC_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Trie
 |  |
@@ -338,6 +340,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0231-power-of-two](https://github.com/Zrahay/LC_Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Zrahay/LC_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Zrahay/LC_Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Zrahay/LC_Solutions/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Zrahay/LC_Solutions/tree/master/0390-elimination-game) |
 | [1013-fibonacci-number](https://github.com/Zrahay/LC_Solutions/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/Zrahay/LC_Solutions/tree/master/2050-count-good-numbers) |
