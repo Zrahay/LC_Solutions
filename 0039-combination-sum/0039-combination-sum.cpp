@@ -2,30 +2,42 @@ class Solution {
 public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         int n = candidates.size();
-        vector<vector<int>>ans1;
-        vector<int>ans;
+        vector<int>collect;
+        int i = 0;
+        int sum = 0;
+        
 
-        int ind = 0;
-        recur(ind, ans1, ans, target, candidates, n);
+        vector<vector<int>> ans;
+        
+        
+        
+        helper(ans, candidates, collect, n, i, target);
 
-        return ans1;
+
+
+        return ans;
     }
 
-    void recur(int ind, vector<vector<int>>& ans1, vector<int>& ans, int target, vector<int>& candidates, int n){
-        if(ind == n){
-            if(target == 0){
-                ans1.push_back(ans);
-            }
+    void helper(vector<vector<int>>& ans, vector<int>& candidates, vector<int>& collect, int n, int i, int target){
+        
+        if(target == 0){
+            ans.push_back(collect);
             return;
         }
 
-        if(candidates[ind] <= target){
-            ans.push_back(candidates[ind]);
-            recur(ind, ans1, ans, target - candidates[ind], candidates, n);
-            ans.pop_back();
-        }
-        recur(ind + 1, ans1, ans, target, candidates, n);
+        if((i == n) || (target < 0)) return;
+
+
+        collect.push_back(candidates[i]);
+        helper(ans, candidates, collect, n, i, target - candidates[i]);
+
+        collect.pop_back();
+
+        helper(ans, candidates, collect, n, i + 1, target);
 
         return;
+
+
+        
     }
 };
