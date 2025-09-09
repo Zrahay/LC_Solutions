@@ -217,6 +217,7 @@ Storing solutions of the Leetcode questions that I solve
 | [0020-valid-parentheses](https://github.com/Zrahay/LC_Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Zrahay/LC_Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Zrahay/LC_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Zrahay/LC_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Zrahay/LC_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Zrahay/LC_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Zrahay/LC_Solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -361,4 +362,16 @@ Storing solutions of the Leetcode questions that I solve
 | [0022-generate-parentheses](https://github.com/Zrahay/LC_Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Zrahay/LC_Solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Zrahay/LC_Solutions/tree/master/0078-subsets) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Zrahay/LC_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Zrahay/LC_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Zrahay/LC_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
